@@ -1,0 +1,20 @@
+{
+  "name": "UI ELEMENT USING THREE.JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.80.5",
+    "vite": "^5.4.10"
+  }
+}
